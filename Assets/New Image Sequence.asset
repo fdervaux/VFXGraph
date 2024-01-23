@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546069fd762786f4da89225e1989d105, type: 3}
+  m_Name: New Image Sequence
+  m_EditorClassIdentifier: 
+  inputFrameGUIDs: []
+  processorInfos: []
+  exportSettings:
+    fileName: 
+    frameCount: 0
+    outputShape: 0
+    exportMode: 0
+    exportAlpha: 1
+    exportSeparateAlpha: 0
+    sRGB: 1
+    highDynamicRange: 0
+    compress: 1
+    generateMipMaps: 1
+    wrapMode: 0
+    filterMode: 1
+    dataContents: 0
+  editSettings:
+    selectedProcessor: -1
+    lockedProcessor: -1
+  inheritSettingsReference: {fileID: 0}
